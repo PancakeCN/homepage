@@ -138,7 +138,8 @@ body {
 }
 
 .meBox-Button {
-    width: 100%;
+    /*width: 100%;*/
+    width: 110px;
 }
 
 .meBox-Button a {
