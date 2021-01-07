@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(../img/banner.jpg);
+    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://cdn2.sublimerui.top/2020/10/13/7d984fd0731cf.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
